@@ -4,6 +4,6 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=f1reworker&theme=highcontrast) 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=f1reworker&layout=compact&count_private=true&theme=radical&hide=cmake,html,swift)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=f1reworker&layout=compact&count_private=true&theme=radical&hide=cmake,html,swift,JawaScript)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=f1reworker&theme=react-dark)  
