@@ -4,6 +4,6 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=f1reworker&theme=highcontrast) 
 
-![](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=f1reworker&layout=compact&count_private=true&theme=radical&hide=cmake,html,swift,JawaScript)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f1reworker&layout=compact&count_private=true&theme=radical&hide=cmake,html,swift,JawaScript)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=f1reworker&theme=react-dark)
